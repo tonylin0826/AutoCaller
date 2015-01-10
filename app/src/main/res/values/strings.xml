@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoCaller</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure_phone_number">Phone number</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_contact_image">Add contact image</string>
+
+</resources>
